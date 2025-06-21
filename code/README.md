@@ -6,3 +6,5 @@ uv run utils/fdom/element_interactor.py --app-name "C:\Program Files\WindowsApps
 uv run utils/fdom/element_interactor.py --app-name "C:\Program Files\Blender Foundation\Blender 4.2\blender.exe" --interactive
 
 uv run utils/fdom/element_interactor.py --app-name "C:\Program Files (x86)\Microsoft Office\root\Office16\POWERPNT.EXE" --interactive
+
+uv run utils/fdom/element_interactor.py --app-name "C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE" --interactive
